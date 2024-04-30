@@ -1,0 +1,7 @@
+Hello everyone, this is my first project. To be honest, my knowledge of algorithms is still quite bad.
+Everything you see I watch and learn from the YouTube channel Ryisnow, but right now I can't. I can continue because
+I have a few errors that I don't know how to solve. My code builds a map with impassable barriers and fixed paths, a blue boy can move. 
+and an npc old man will automatically find his way to the upper left corner of the map (I have 2 old men, if you see which old man goes faster, it means I have installed an algorithm on that old man)
+but the problem is Currently, when the boy I control approaches the old man from one of four sides (left, right, top, bottom) by touching the old man and pressing 'E',
+the old man just moves in that direction without actually moving. now find the path as I have installed in the algorithm. I would like your help if possible please help me solve this problem,
+thanks in advance
